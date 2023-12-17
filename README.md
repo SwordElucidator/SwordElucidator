@@ -1,5 +1,5 @@
 ## Hao Sun
-Hi! I'm a ML Research Engineer currently working on LLMs & AI Agents at a startup in Shanghai, China. I have 8 year experience on NLP & Software Engineering. I'm also an SCPD student in Artificial Intelligence at Stanford University currently researching on LMs & generative AI, and an alumni of University of California, Berkeley in Computer Science.
+Hi! I'm an ML Research Engineer currently working on LLMs & AI Agents at a startup in Shanghai, China. I have 8 year experience on NLP & Software Engineering. I'm also an SCPD student in Artificial Intelligence at Stanford University currently researching on LMs & generative AI, and an alumni of University of California, Berkeley in Computer Science.
 
 I co-founded and worked as CTO in startups Whimly LLC. and Beijing Youli Technology Co., Ltd focus on Travel and Social Networking web / mobile applications. I also worked as Principal Software Engineer and the AI Lead in [Veeva Systems China](https://www.veeva.com/cn/) on CRM system.
 
