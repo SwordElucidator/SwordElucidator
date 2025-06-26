@@ -1,5 +1,5 @@
 ## Hao Sun
-Hi! I graduated from UC Berkeley, currently an ML Engineer working on LLMs, workflow & Multi-Agent system at a startup in Shanghai, China. I have 9 year experience on NLP & Software Engineering.
+Hi! I graduated from UC Berkeley, currently working at a startup in Shanghai, China. I have 9 year experience on NLP, LLM & SWE.
 
 I co-founded and worked as CTO in startups Whimly LLC. and Beijing Youli Technology Co., Ltd focus on Travel and Social Networking web / mobile applications. I also worked as Principal Software Engineer and the AI Lead in [Veeva Systems China](https://www.veeva.com/cn/) on CRM system. I was one of the main owners and the agent architecture of Museland in Zulution AI. I currently work on general agent, visual agentic workflow and personal knowledge base implementations.
 
