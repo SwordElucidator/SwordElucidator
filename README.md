@@ -10,6 +10,7 @@ I co-founded academic NGO [Jungus](https://www.jungus.cn/) and maintained the pe
 ### Education
 **Stanford University**
 Graduate Certificate in Artificial Intelligence | 2022-2024
+
 **University of California, Berkeley**
 B.S. in Computer Science | 2012-2016
 
